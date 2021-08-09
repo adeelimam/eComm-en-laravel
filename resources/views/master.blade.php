@@ -32,6 +32,15 @@
 	.trending-wrapper{
 		margin-left: 30px;
 	}
+	.detail-img{
+		height: 300px;
+	}
+	.search-box{
+		width: 500px !important;
+	}
+	body{
+		overflow-x: hidden;
+	}
 </style>
 </head>
 <body>
